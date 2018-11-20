@@ -38,7 +38,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.skytech.zs12348</string>
+                    <string>com.skytech.sfb12348app</string>
                     <key>bundle-version</key>
                     <string>3.0.8</string>
                     <key>kind</key>
